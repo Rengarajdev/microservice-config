@@ -1,0 +1,12 @@
+
+build:
+  version: "12.O"
+
+loans:
+  message: "welcome to raj bank's loans Production API's"
+  contactDetails:
+    name: "rengaraj - Product owner"
+    email: "raj@gmail.com"
+  onCallSupport:
+    -(222) 555-1234
+    -(333) 555-1234

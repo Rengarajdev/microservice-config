@@ -1,0 +1,11 @@
+
+
+
+accounts:
+  message: "welcome to raj bank's accounts QA related local API's"
+  contactDetails:
+    name: "rengaraj - QA Lead"
+    email: "raj@gmail.com"
+  onCallSupport:
+    -(888) 555-1234
+    -(888) 555-1234

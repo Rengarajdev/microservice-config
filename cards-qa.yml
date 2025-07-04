@@ -1,0 +1,12 @@
+
+build:
+  version: "1.O"
+
+cards:
+  message: "welcome to raj bank's  card QA related local API's"
+  contactDetails:
+    name: "rengaraj - QA lead"
+    email: "raj@gmail.com"
+  onCallSupport:
+    -(000) 555-1234
+    -(101) 555-1234

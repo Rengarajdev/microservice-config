@@ -1,0 +1,14 @@
+
+
+
+build:
+  version: "3.O"
+
+cards:
+  message: "welcome to raj bank's card related local API's"
+  contactDetails:
+    name: "rengaraj"
+    email: "raj@gmail.com"
+  onCallSupport:
+    -(231) 555-1234
+    -(231) 555-1234

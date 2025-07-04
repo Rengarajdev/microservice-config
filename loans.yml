@@ -1,0 +1,14 @@
+
+
+
+build:
+  version: "5.O"
+
+loans:
+  message: "welcome to raj bank's related loans local API's"
+  contactDetails:
+    name: "rengaraj"
+    email: "raj@gmail.com"
+  onCallSupport:
+    -(231) 555-1234
+    -(231) 555-1234

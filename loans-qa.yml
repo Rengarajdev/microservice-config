@@ -1,0 +1,12 @@
+
+build:
+  version: "13.O"
+
+loans:
+  message: "welcome to raj bank's loans QA API's"
+  contactDetails:
+    name: "rengaraj - QA Lead"
+    email: "raj@gmail.com"
+  onCallSupport:
+    -(777) 555-1234
+    -(111) 555-1234
