@@ -7,7 +7,7 @@ accounts:
   message: "welcome to raj bank's accounts Production related local API's"
   contactDetails:
     name: "rengaraj - product owner"
-    email: "raj@gmail.com"
+    email: "{cipher}6f045dc9ad3ad593e103f9cd458781ef8128a7415211e3deca7276e4815f3d27"
   onCallSupport:
     -(111) 555-1234
     -(111) 555-1234
