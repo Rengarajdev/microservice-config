@@ -3,7 +3,7 @@ build:
   version: "12.O"
 
 loans:
-  message: "welcome to raj bank's loans Production API's"
+  message: "welcome to raj bank's loans prod API's"
   contactDetails:
     name: "rengaraj - Product owner"
     email: "raj@gmail.com"
