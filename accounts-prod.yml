@@ -4,7 +4,7 @@ build:
   version: "1.O"
 
 accounts:
-  message: "welcome to raj bank's accounts prod web hook related local API's"
+  message: "welcome to raj bank's accounts Production web hook related local API's"
   contactDetails:
     name: "rengaraj - product owner"
     email: "{cipher}6f045dc9ad3ad593e103f9cd458781ef8128a7415211e3deca7276e4815f3d27"
