@@ -5,7 +5,7 @@ build:
   version: "3.O"
 
 accounts:
-  message: "welcome to raj bank's related local from docker API's success...!"
+  message: "welcome to raj bank's related local from docker API's success......!"
   contactDetails:
     name: "rengaraj"
     email: "raj@gmail.com"
