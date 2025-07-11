@@ -5,7 +5,7 @@ build:
   version: "3.O"
 
 cards:
-  message: "welcome to raj bank's card related local test API's"
+  message: "welcome to raj bank's card related local test API's,,,,,,,,,,,"
   contactDetails:
     name: "rengaraj"
     email: "raj@gmail.com"
